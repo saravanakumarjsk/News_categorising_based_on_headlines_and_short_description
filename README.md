@@ -1,4 +1,4 @@
-# News_categorising_based_on_headlines_&_short_description
+# News_categorizing-_based_on_headlines_and_short_description
 The algorithm categories news articles based on their headlines and short description.
 
 # Bidirectional LSTM with conv_nets
